@@ -42,7 +42,7 @@ Step 2 打开相机驱动软件
     主机上新开一个终端,运行:
         roslaunch realsense2_camera rs_camera.launch
 
-Step 3 打开二维码定位软件
+Step 3 打开二维码定位软件运行自行编写的main.cpp中的代码:
     主机上新开一个终端,运行:
         roslaunch aruco_detection aruco_detection.launch
 
